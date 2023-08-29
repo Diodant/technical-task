@@ -722,12 +722,12 @@ ol li:nth-child(4):before {
 }
 
 .app-block__img{
-	background: url(../img/Rectangle\ 997.png) no-repeat center center/cover;
+	background: url(img/Rectangle\ 997.png) no-repeat center center/cover;
 }
 
 @media (max-width: 640px) {
 	.app-block__img {
-		background: url(../img/Rectangle\ 999.png), lightgray 50% / cover no-repeat;
+		background: url(img/Rectangle\ 999.png), lightgray 50% / cover no-repeat;
 	}
 }
 
